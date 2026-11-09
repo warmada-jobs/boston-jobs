@@ -1,16 +1,16 @@
 # Boston Jobs
 
-Open roles in Boston: 84 roles at 42 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-08.
+Open roles in Boston: 77 roles at 38 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-09.
 
-All 84 are listed below. Browse the newest on [warmada.com/jobs/boston](https://warmada.com/jobs/boston?utm_source=github&utm_medium=list&utm_campaign=boston).
+All 77 are listed below. Browse the newest on [warmada.com/jobs/boston](https://warmada.com/jobs/boston?utm_source=github&utm_medium=list&utm_campaign=boston).
 
-**By role:** Software Engineering (19) · Hardware Engineering (9) · Data (7) · Product Management (2) · Design (2) · Marketing (3) · Sales (9) · Customer Success (2) · Operations (12) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (1) · Other (13)
+**By role:** Software Engineering (16) · Hardware Engineering (9) · Data (6) · Product Management (2) · Design (2) · Marketing (3) · Sales (9) · Customer Success (2) · Operations (10) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (1) · Other (12)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Boston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (19)
+## Software Engineering (16)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -30,9 +30,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Motional](https://warmada.com/companies/motional?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Engineer, In-Car Visualization | Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Oct 27 | [Apply](https://motional.com/open-positions/?gh_jid=8046057003#/8046057003) · [Find the hiring manager](https://warmada.com/job/motional-senior-engineer-in-car-visualization-fa06feb6-95aa-458d-bc83-144852998275?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [opengov.com](https://warmada.com/companies/opengov-com?utm_source=github&utm_medium=list&utm_campaign=boston) | Staff Software Engineer | US \| Massachusetts \| Boston | Oct 27 | [Apply](https://jobs.ashbyhq.com/opengov/4889ede1-05e3-4453-b0db-e465c5b0a14c) · [Find the hiring manager](https://warmada.com/job/opengov-com-staff-software-engineer-e38326a8-3ffb-46f1-8972-ce153b605ad4?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead Integrations Engineer - G&amp;A Systems | Boston, MA | Oct 26 | [Apply](https://www.klaviyo.com/careers/jobs/8017124003?gh_jid=8017124003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-integrations-engineer-g-and-a-systems-2647066f-a256-424b-940e-293cd0a4ff12?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Lead AI Engineer - G&amp;A Systems | Boston, MA | Oct 26 | [Apply](https://www.klaviyo.com/careers/jobs/8017125003?gh_jid=8017125003) · [Find the hiring manager](https://warmada.com/job/klaviyo-senior-lead-ai-engineer-g-and-a-systems-5f52f588-d5f3-4358-a128-355008125e92?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| Semgrep | Senior Engineering Manager, Guardian | San Francisco, Boston, New York, Denver | Oct 26 | [Apply](https://jobs.ashbyhq.com/semgrep/0ad27864-ce95-4797-ab5d-b24de8f78d94) · [Find the hiring manager](https://warmada.com/job/semgrep-senior-engineering-manager-guardian-ef7e0182-989b-4e0d-8689-b9a3968d9858?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [opengov.com](https://warmada.com/companies/opengov-com?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior DevOps Engineer | US \| Massachusetts \| Boston | Oct 26 | [Apply](https://jobs.ashbyhq.com/opengov/f6a01aa0-4ab9-4646-b2c4-611e46547370) · [Find the hiring manager](https://warmada.com/job/opengov-com-senior-devops-engineer-d502417b-89d9-4fc6-b867-ba12f919da42?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
 ## Hardware Engineering (9)
 
@@ -48,23 +45,22 @@ A bad listing? Email hello@warmada.com with the link.
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=boston) | Electrical Engineer - Entry Level | Boston, MA | Oct 28 | [Apply](https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686) · [Find the hiring manager](https://warmada.com/job/formlabs-electrical-engineer-entry-level-8c566a16-8863-43a1-8c83-d53738aa0ab8?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Bevi](https://warmada.com/companies/bevi?utm_source=github&utm_medium=list&utm_campaign=boston) | Director, Hardware Quality Engineering | Boston | Oct 28 | [Apply](https://job-boards.greenhouse.io/bevicareers/jobs/4470486009) · [Find the hiring manager](https://warmada.com/job/bevi-director-hardware-quality-engineering-7f2c0dd6-4611-411a-b65a-d1e0d5a13a3f?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Data (7)
+## Data (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | Immuta | Sr. Data Scientist | College Park, MD \| Columbus, OH \| Boston, MA | Nov 6 | [Apply](https://jobs.lever.co/immuta/944c022f-e645-4898-9d56-005b45dba5d7) · [Find the hiring manager](https://warmada.com/job/immuta-sr-data-scientist-8f8c49a7-0a1f-4100-a295-e31d2203d01d?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead Strategic Finance &amp; Analytics Engineer | Boston, MA | Nov 6 | [Apply](https://www.klaviyo.com/careers/jobs/8196940003?gh_jid=8196940003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-strategic-finance-and-analytics-engineer-e525b8a5-42d2-452d-b599-f32a41b1b6f5?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Hi Marley](https://warmada.com/companies/hi-marley?utm_source=github&utm_medium=list&utm_campaign=boston) | Sr. Data Analyst | Hybrid - Boston, MA | Nov 4 | [Apply](https://www.himarley.com/job-openings?gh_jid=8195195003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-data-analyst-9dd0baa4-39a0-4467-8559-7edc2e4336f4?utm_source=github&utm_medium=list&utm_campaign=boston) |
+| Hi Marley | Sr. Data Analyst | Hybrid - Boston, MA | Nov 4 | [Apply](https://www.himarley.com/job-openings?gh_jid=8195195003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-data-analyst-9dd0baa4-39a0-4467-8559-7edc2e4336f4?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead Product Data Scientist, Forecasting | Boston, MA | Oct 30 | [Apply](https://www.klaviyo.com/careers/jobs/8048080003?gh_jid=8048080003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-product-data-scientist-forecasting-950c5173-86f2-437b-92d8-00443f80c6ba?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead Product Data Scientist, Agents | Boston, MA | Oct 30 | [Apply](https://www.klaviyo.com/careers/jobs/8048082003?gh_jid=8048082003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-product-data-scientist-agents-e5006f9c-a025-4cef-b145-680e922afed6?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Data Scientist | Boston, MA | Oct 28 | [Apply](https://jobs.lever.co/zoox/62ba74a7-862e-4561-904b-075f3b4c8a7b) · [Find the hiring manager](https://warmada.com/job/zoox-senior-data-scientist-7390efe5-90fc-4c4d-b0ac-63096cad11f2?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Hi Marley](https://warmada.com/companies/hi-marley?utm_source=github&utm_medium=list&utm_campaign=boston) | Director, Data Analytics | Hybrid - Boston, MA | Oct 26 | [Apply](https://www.himarley.com/job-openings?gh_jid=8044880003) · [Find the hiring manager](https://warmada.com/job/hi-marley-director-data-analytics-2f6846f1-bda3-4d1f-b949-105f3052ab65?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
 ## Product Management (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [Hi Marley](https://warmada.com/companies/hi-marley?utm_source=github&utm_medium=list&utm_campaign=boston) | Sr. Product Manager, AI Products | Hybrid - Boston, MA | Nov 6 | [Apply](https://www.himarley.com/job-openings?gh_jid=8197850003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-product-manager-ai-products-65e29573-5f2a-40af-9766-561c3b2fdbe3?utm_source=github&utm_medium=list&utm_campaign=boston) |
+| Hi Marley | Sr. Product Manager, AI Products | Hybrid - Boston, MA | Nov 6 | [Apply](https://www.himarley.com/job-openings?gh_jid=8197850003) · [Find the hiring manager](https://warmada.com/job/hi-marley-sr-product-manager-ai-products-65e29573-5f2a-40af-9766-561c3b2fdbe3?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Oscar Health](https://warmada.com/companies/oscar-health?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Product Manager, Marketplace | Boston, Massachusetts, United States | Oct 29 | [Apply](https://oscarhealth.com/careers/jobs?gh_jid=8334297) · [Find the hiring manager](https://warmada.com/job/oscar-health-senior-product-manager-marketplace-57201336-62e7-4803-a4f3-8dd7b76e9cdf?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
 ## Design (2)
@@ -103,7 +99,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead, Customer Experience Strategy and Operations (High-Touch) | Boston, MA; Denver, CO; San Francisco, CA | Nov 5 | [Apply](https://www.klaviyo.com/careers/jobs/8182740003?gh_jid=8182740003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-customer-experience-strategy-and-operations-high-touch-3dd2775b-a670-4a88-9bb5-f67efc3ffede?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Customer Success Operations Analyst | Boston, MA; Denver, CO; San Francisco, CA | Nov 5 | [Apply](https://www.klaviyo.com/careers/jobs/8182739003?gh_jid=8182739003) · [Find the hiring manager](https://warmada.com/job/klaviyo-customer-success-operations-analyst-45b464f1-54ab-4423-a415-7882cde386b3?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Operations (12)
+## Operations (10)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -117,8 +113,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=boston) | Mechanical Project Manager | Boston, MA | Oct 29 | [Apply](https://careers.formlabs.com/job/8335610/apply/?gh_jid=8335610) · [Find the hiring manager](https://warmada.com/job/formlabs-mechanical-project-manager-d4666508-0516-4600-a861-d322a438e58c?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=boston) | Materials Program Manager | Boston, MA | Oct 29 | [Apply](https://careers.formlabs.com/job/8335124/apply/?gh_jid=8335124) · [Find the hiring manager](https://warmada.com/job/formlabs-materials-program-manager-90033e77-d149-4d85-8392-be75699e7c2f?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Tenstorrent](https://warmada.com/companies/tenstorrent?utm_source=github&utm_medium=list&utm_campaign=boston) | Sr. Manager, Legal Operations | Austin, Texas, United States; Boston, Massachusetts, United States; Santa Clara, California, United States; Toronto, Ontario, Canada | Oct 27 | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5242188007) · [Find the hiring manager](https://warmada.com/job/tenstorrent-sr-manager-legal-operations-57902003-88df-47c1-ba9a-8417c9aeb5ce?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| Gradient AI | Technical Operations Manager | Boston | Oct 26 | [Apply](https://job-boards.greenhouse.io/gradientai/jobs/8020469003) · [Find the hiring manager](https://warmada.com/job/gradient-ai-technical-operations-manager-9659b3b7-ae30-45d0-b449-7ba31a857b96?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| Talon.One | Senior Sales Operations Manager, AMER | Boston, Chicago, New York, San Francisco | Oct 26 | [Apply](https://www.talon.one/job-listing?gh_jid=5016391101) · [Find the hiring manager](https://warmada.com/job/talon-one-senior-sales-operations-manager-amer-dfaeca4f-173d-498f-b01e-a0425ee55b26?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
 ## Finance (2)
 
@@ -141,7 +135,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Databricks](https://warmada.com/companies/databricks?utm_source=github&utm_medium=list&utm_campaign=boston) | Sr. Counsel, Employment | Bellevue, Washington; Boston, Massachusetts; Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C. | Oct 30 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8922120002) · [Find the hiring manager](https://warmada.com/job/databricks-sr-counsel-employment-5d0a901a-1db8-49ac-961d-6e90fb078726?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Other (13)
+## Other (12)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -154,7 +148,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Navan](https://warmada.com/companies/navan?utm_source=github&utm_medium=list&utm_campaign=boston) | Director of Consulting Ecosystem | Boston, MA | Nov 2 | [Apply](https://navan.com/careers/openings?gh_jid=8346765) · [Find the hiring manager](https://warmada.com/job/navan-director-of-consulting-ecosystem-84f920a4-7005-4210-a654-29316e018389?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Manager, Corporate Development | Boston, MA; San Francisco, CA | Nov 2 | [Apply](https://www.klaviyo.com/careers/jobs/8002958003?gh_jid=8002958003) · [Find the hiring manager](https://warmada.com/job/klaviyo-senior-manager-corporate-development-e88c8e59-0716-4929-a912-f26a67de2c86?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=boston) | Cafe Manager \| Boston | Boston, Massachusetts | Nov 2 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8160970003) · [Find the hiring manager](https://warmada.com/job/blank-street-cafe-manager-boston-507df11b-7f10-4e8f-9016-de7724387794?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| pearlhealth.com | Director, Clinical Performance | Seattle, New York City, Boston, or Remote | Oct 30 | [Apply](https://jobs.ashbyhq.com/pearlhealth/2ead26c9-a7ed-43e8-9e69-24913b7bf664) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-director-clinical-performance-7d42c1f9-fce6-4eec-a780-2f30a0db2ab0?utm_source=github&utm_medium=list&utm_campaign=boston) |
+| [pearlhealth.com](https://warmada.com/companies/pearlhealth-com?utm_source=github&utm_medium=list&utm_campaign=boston) | Director, Clinical Performance | Seattle, New York City, Boston, or Remote | Oct 30 | [Apply](https://jobs.ashbyhq.com/pearlhealth/2ead26c9-a7ed-43e8-9e69-24913b7bf664) · [Find the hiring manager](https://warmada.com/job/pearlhealth-com-director-clinical-performance-7d42c1f9-fce6-4eec-a780-2f30a0db2ab0?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Ōura](https://warmada.com/companies/oura?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Director of Engineering - Women's Health | Remote - Boston, Massachusetts; Remote - New York, New York; Remote - San Francisco, California; Remote - United States | Oct 29 | [Apply](https://job-boards.greenhouse.io/oura/jobs/4472133009) · [Find the hiring manager](https://warmada.com/job/oura-senior-director-of-engineering-women-s-health-460a2895-e037-4869-8159-d906673a7a57?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=boston) | Engineering Technician | Boston, MA | Oct 27 | [Apply](https://careers.formlabs.com/job/8327414/apply/?gh_jid=8327414) · [Find the hiring manager](https://warmada.com/job/formlabs-engineering-technician-f640ba2e-f8af-4be8-909c-38bd1f9651da?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| knownwell.co | Clinical Research Coordinator | Boston, MA | Oct 26 | [Apply](https://jobs.ashbyhq.com/knownwell/50249903-7b0c-4461-ab72-82eb56d13f43) · [Find the hiring manager](https://warmada.com/job/knownwell-co-clinical-research-coordinator-dcab2e93-ef0c-4038-bb95-ac459ec6d1a5?utm_source=github&utm_medium=list&utm_campaign=boston) |
