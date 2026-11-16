@@ -1,10 +1,10 @@
 # Boston Jobs
 
-Open roles in Boston: 77 roles at 45 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-15.
+Open roles in Boston: 74 roles at 45 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-16.
 
-All 77 are listed below. Browse the newest on [warmada.com/jobs/boston](https://warmada.com/jobs/boston?utm_source=github&utm_medium=list&utm_campaign=boston).
+All 74 are listed below. Browse the newest on [warmada.com/jobs/boston](https://warmada.com/jobs/boston?utm_source=github&utm_medium=list&utm_campaign=boston).
 
-**By role:** Software Engineering (18) · Hardware Engineering (1) · Data (2) · Product Management (3) · Design (2) · Marketing (5) · Sales (11) · Customer Success (4) · Operations (9) · Finance (2) · HR & Recruiting (6) · Other (14)
+**By role:** Software Engineering (18) · Hardware Engineering (1) · Data (2) · Product Management (3) · Design (2) · Marketing (5) · Sales (11) · Customer Success (5) · Operations (8) · Finance (2) · HR & Recruiting (6) · Other (11)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Boston. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -87,16 +87,17 @@ A bad listing? Email hello@warmada.com with the link.
 | [Toast](https://warmada.com/companies/toast?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Solutions Engineer, International | Boston, Massachusetts, USA | Nov 3 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8349013) · [Find the hiring manager](https://warmada.com/job/toast-senior-solutions-engineer-international-8e1ec9f8-ae7a-4bc4-8397-7c265bd937a6?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | Cato Networks | Major Sales Director, New England | Boston, Massachusetts, United States | Nov 2 | [Apply](https://www.catonetworks.com/careers/careers-post/5025280101?gh_jid=5025280101) · [Find the hiring manager](https://warmada.com/job/cato-networks-major-sales-director-new-england-f7102e55-4d4a-4433-8333-62d2f5258be5?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Customer Success (4)
+## Customer Success (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| IP Fabric | Senior Customer Success Manager | Boston | Nov 13 | [Apply](https://ipfabric.io/jobs-listing/?gh_jid=5033499101) · [Find the hiring manager](https://warmada.com/job/ip-fabric-senior-customer-success-manager-39bd2e58-d97d-4b1e-8fea-42b2e78da088?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [PathAI](https://warmada.com/companies/pathai?utm_source=github&utm_medium=list&utm_campaign=boston) | Customer Success Manager | Boston, MA or Remote | Nov 13 | [Apply](https://www.pathai.com/careers/8937822002?gh_jid=8937822002) · [Find the hiring manager](https://warmada.com/job/pathai-customer-success-manager-56eed3e8-8fdf-4a90-be5a-f3077bd27932?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Sigma Computing](https://warmada.com/companies/sigma-computing?utm_source=github&utm_medium=list&utm_campaign=boston) | Enterprise Customer Success Manager - East | Boston, Massachusetts | Nov 10 | [Apply](https://job-boards.greenhouse.io/sigmacomputing/jobs/8200403003) · [Find the hiring manager](https://warmada.com/job/sigma-computing-enterprise-customer-success-manager-east-25d14f1d-26e1-41c6-9ea9-b5281d460a58?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Lead, Customer Experience Strategy and Operations (High-Touch) | Boston, MA; Denver, CO; San Francisco, CA | Nov 5 | [Apply](https://www.klaviyo.com/careers/jobs/8182740003?gh_jid=8182740003) · [Find the hiring manager](https://warmada.com/job/klaviyo-lead-customer-experience-strategy-and-operations-high-touch-3dd2775b-a670-4a88-9bb5-f67efc3ffede?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Customer Success Operations Analyst | Boston, MA; Denver, CO; San Francisco, CA | Nov 5 | [Apply](https://www.klaviyo.com/careers/jobs/8182739003?gh_jid=8182739003) · [Find the hiring manager](https://warmada.com/job/klaviyo-customer-success-operations-analyst-45b464f1-54ab-4423-a415-7882cde386b3?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Operations (9)
+## Operations (8)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -108,7 +109,6 @@ A bad listing? Email hello@warmada.com with the link.
 | NeuraFlash, Part of Accenture | Sales Operations Sr. Specialist | Boston - Massachusetts | Nov 5 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6250818004) · [Find the hiring manager](https://warmada.com/job/neuraflash-part-of-accenture-sales-operations-sr-specialist-e89558b7-36f4-4092-bf52-af1d15f1c06f?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | NeuraFlash, Part of Accenture | Sales Enablement and Partner Alliance Specialist | Boston - Massachusetts | Nov 5 | [Apply](https://job-boards.greenhouse.io/neuraflash/jobs/6250792004) · [Find the hiring manager](https://warmada.com/job/neuraflash-part-of-accenture-sales-enablement-and-partner-alliance-specialist-f20cf3c3-17a7-439d-ba1d-77b04757cf6c?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | Mark43 | Federal Compliance Program Manager | Boston, MA | Nov 3 | [Apply](https://mark43.com/list-job/8349814?gh_jid=8349814) · [Find the hiring manager](https://warmada.com/job/mark43-federal-compliance-program-manager-230fe048-78f2-4756-8afa-71875f389ccd?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=boston) | Operations Manager \| Boston | Boston, Massachusetts | Nov 2 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8163012003) · [Find the hiring manager](https://warmada.com/job/blank-street-operations-manager-boston-4889a7f4-6b23-4427-be3c-82912fedba8f?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
 ## Finance (2)
 
@@ -128,7 +128,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Datadog](https://warmada.com/companies/datadog?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Recruiter - Enterprise | Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA | Nov 9 | [Apply](https://careers.datadoghq.com/detail/8221611/?gh_jid=8221611) · [Find the hiring manager](https://warmada.com/job/datadog-senior-recruiter-enterprise-4953d4f2-58d8-46da-9d30-b1ce5835c346?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | Crunchtime | Senior Director, People Operations | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Louisville, Kentucky, United States | Nov 3 | [Apply](https://www.crunchtime.com/open-positions?gh_jid=6242679004) · [Find the hiring manager](https://warmada.com/job/crunchtime-senior-director-people-operations-c1f0a0f4-9629-4806-9312-913a67d7dcc5?utm_source=github&utm_medium=list&utm_campaign=boston) |
 
-## Other (14)
+## Other (11)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -143,6 +143,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Okta](https://warmada.com/companies/okta?utm_source=github&utm_medium=list&utm_campaign=boston) | Regional Alliance Manager, Enterprise East | Boston, Massachusetts; New York, New York; Washington, DC | Nov 4 | [Apply](https://www.okta.com/company/careers/opportunity/8351028?gh_jid=8351028) · [Find the hiring manager](https://warmada.com/job/okta-regional-alliance-manager-enterprise-east-2d78b13e-69d6-4ba3-93e7-5cd0f81372a2?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Motional](https://warmada.com/companies/motional?utm_source=github&utm_medium=list&utm_campaign=boston) | Staff Technical Lead Manager- Test &amp; Support Engineering | Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Nov 4 | [Apply](https://motional.com/open-positions/?gh_jid=8178842003#/8178842003) · [Find the hiring manager](https://warmada.com/job/motional-staff-technical-lead-manager-test-and-support-engineering-9f266439-9bc6-4331-8770-f41936ec3b54?utm_source=github&utm_medium=list&utm_campaign=boston) |
 | [Pathstone](https://warmada.com/companies/pathstone?utm_source=github&utm_medium=list&utm_campaign=boston) | Associate, Client Advisory | Boston, MA | Nov 2 | [Apply](https://job-boards.greenhouse.io/pathstone/jobs/4726550006) · [Find the hiring manager](https://warmada.com/job/pathstone-associate-client-advisory-424a242e-2efe-4f10-9f9f-2e50f2f47af2?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Navan](https://warmada.com/companies/navan?utm_source=github&utm_medium=list&utm_campaign=boston) | Director of Consulting Ecosystem | Boston, MA | Nov 2 | [Apply](https://navan.com/careers/openings?gh_jid=8346765) · [Find the hiring manager](https://warmada.com/job/navan-director-of-consulting-ecosystem-84f920a4-7005-4210-a654-29316e018389?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Klaviyo](https://warmada.com/companies/klaviyo?utm_source=github&utm_medium=list&utm_campaign=boston) | Senior Manager, Corporate Development | Boston, MA; San Francisco, CA | Nov 2 | [Apply](https://www.klaviyo.com/careers/jobs/8002958003?gh_jid=8002958003) · [Find the hiring manager](https://warmada.com/job/klaviyo-senior-manager-corporate-development-e88c8e59-0716-4929-a912-f26a67de2c86?utm_source=github&utm_medium=list&utm_campaign=boston) |
-| [Blank Street](https://warmada.com/companies/blank-street?utm_source=github&utm_medium=list&utm_campaign=boston) | Cafe Manager \| Boston | Boston, Massachusetts | Nov 2 | [Apply](https://job-boards.greenhouse.io/blankstreet/jobs/8160970003) · [Find the hiring manager](https://warmada.com/job/blank-street-cafe-manager-boston-507df11b-7f10-4e8f-9016-de7724387794?utm_source=github&utm_medium=list&utm_campaign=boston) |
