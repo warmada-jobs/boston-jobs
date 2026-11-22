@@ -1,6 +1,6 @@
 # Boston Jobs
 
-Open roles in Boston: 80 roles at 52 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-21.
+Open roles in Boston: 80 roles at 52 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=boston).** Last updated 2026-11-22.
 
 All 80 are listed below. Browse the newest on [warmada.com/jobs/boston](https://warmada.com/jobs/boston?utm_source=github&utm_medium=list&utm_campaign=boston).
 
